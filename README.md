@@ -6,7 +6,7 @@
 
 ## Overview
 
-Achieved a top leaderboard position in a Kaggle hackathon focused on LLM (Large Language Model) classification. The goal was to fine-tune a custom architecture built on DeBERTa v3 (extra small) using KerasNLP and JAX, to classify which of two LLM responses (or a tie) was preferred for a given prompt.
+Achieved a top leaderboard position in a Kaggle hackathon focused  on LLM (Large Language Model) classification. The goal was to fine-tune a custom architecture built on DeBERTa v3 (extra small) using KerasNLP and JAX, to classify which of two LLM responses (or a tie) was preferred for a given prompt.
 
 ---
 
